@@ -42,5 +42,5 @@
 
 ## 💻 구현 화면
 <img src="https://github.com/user-attachments/assets/9e01eec4-6160-45b3-ae15-597772afbf69" width="700" height="400" /> <br>
-<img src="https://github.com/user-attachments/assets/1e6d6528-8cde-4c75-bcf5-29b6fb10f5cd" width="700" height="500" />
+<img src="https://github.com/user-attachments/assets/959c41ab-719b-425f-bde3-2a2190d161eb" width="700" height="500" />
 
