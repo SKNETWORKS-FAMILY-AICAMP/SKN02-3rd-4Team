@@ -6,13 +6,13 @@ import model
 with st.sidebar:
     st.title('💬 2024년 인공지능 산업 최신 동향 Q&A')
 
-# 시작메시지 수정 필요 + 클리어버튼 정의,실행
+# 클리어버튼 정의
 def clear_chat_history():
     # 1. 메시지 초기화
     st.session_state.messages = [
         {
             "role": "assistant",
-            "content": "How can I help you?",
+            "content": "무엇을 도와드릴까요?",
         }
     ]
     # 2. 메모리 초기화 (기록 삭제)
@@ -27,9 +27,8 @@ st.sidebar.button('Clear', on_click=clear_chat_history)
 st.title("🤖 2024 AI 산업 동향 Q&A 챗봇")
 st.caption("📌 Langchain을 기반으로 한 한국어 인공지능 챗봇입니다.")
 
-# 시작메시지 수정 필요
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
+    st.session_state["messages"] = [{"role": "assistant", "content": "무엇을 도와드릴까요?"}]
 
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).write(msg["content"])
