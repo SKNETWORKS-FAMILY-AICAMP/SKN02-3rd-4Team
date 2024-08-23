@@ -41,7 +41,8 @@
 <br>
 
 ## 💻 구현 화면
-![스트림릿 구현화면 최종](https://github.com/user-attachments/assets/9e01eec4-6160-45b3-ae15-597772afbf69)
+<img src="![스트림릿 구현화면 최종](https://github.com/user-attachments/assets/9e01eec4-6160-45b3-ae15-597772afbf69)" width="650" height="400" />
+
 
 
 
