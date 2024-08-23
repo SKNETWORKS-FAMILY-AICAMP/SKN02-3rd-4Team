@@ -36,7 +36,8 @@
 
 ## :bookmark_tabs: 데이터셋 및 출처
 * 소스: 인공지능 산업의 최신 동향(2024) 1~8월 pdf 파일
-* 출처: SPRi 소프트웨어 정책 연구소 AI 브리프 
+* 출처: SPRi 소프트웨어 정책 연구소 AI 브리프 <br>
+![스크린샷 2024-08-23 102118](https://github.com/user-attachments/assets/7d23623e-a2b7-4e75-8f2a-82699eb9381e)
 <br>
 
 ## 💻 구현 화면
