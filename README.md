@@ -40,3 +40,4 @@
 <br>
 
 ## 💻 구현 화면
+<img width="1475" alt="image" src="https://github.com/user-attachments/assets/84a8bae7-3829-408e-82fd-a997fa8f1328">
